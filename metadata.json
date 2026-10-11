@@ -1,0 +1,6 @@
+{
+  "name": "Aviator Crash Game & Desi Wallet",
+  "description": "Real-time Aviator style multiplayer crash game with live WebSocket multiplier curve, betting system, and Desi Wallet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
